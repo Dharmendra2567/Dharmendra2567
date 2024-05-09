@@ -1,4 +1,4 @@
- ![logo](https://thumbs.dreamstime.com/b/abstract-animated-computer-programming-code-as-technology-background-full-hd-footage-47207494.jpg?w=700)
+ ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7Cabp4e1d3FItZlxS2OtY6XotX2_4V6WyzvA9jcfYA&s)
 	 <h1 align="center">Hi 👋, I'm Dharmendra Sah</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" alt="coding" width="400px">
