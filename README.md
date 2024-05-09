@@ -1,4 +1,5 @@
- ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7Cabp4e1d3FItZlxS2OtY6XotX2_4V6WyzvA9jcfYA&s?w=800)
+ ![image](https://github.com/Dharmendra2567/Dharmendra2567/assets/89641068/8495efcc-179e-4fbb-8ca9-4b57d374df2d)
+
 	 <h1 align="center">Hi 👋, I'm Dharmendra Sah</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" alt="coding" width="400px">
