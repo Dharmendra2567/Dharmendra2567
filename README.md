@@ -1,5 +1,5 @@
- ![image](https://github.com/Dharmendra2567/Dharmendra2567/assets/89641068/8495efcc-179e-4fbb-8ca9-4b57d374df2d)
 
+<img src="https://www.shutterstock.com/shutterstock/videos/1093339649/thumb/5.jpg?ip=x480" alt="logo" style="width:1000px; height:300px;">
 	 <h1 align="center">Hi 👋, I'm Dharmendra Sah</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" alt="coding" width="400px">
