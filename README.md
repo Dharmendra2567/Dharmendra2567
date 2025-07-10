@@ -2,6 +2,7 @@
 <img src="https://www.shutterstock.com/shutterstock/videos/1093339649/thumb/5.jpg?ip=x480" alt="logo" style="width:1000px; height:300px;">
 	 <h1 align="center">Hi 👋, I'm Dharmendra Sah</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<p align="center">Intern at Celebal Technologies</p>
 <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" alt="coding" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendra2567&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendra2567" /> </p>
@@ -10,7 +11,7 @@
 
 - 📫 How to reach me **dharmendrasahteli23@gmail.com**
 
-- ⚡ Fun fact **Singing**
+- ⚡ Fun fact **Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
