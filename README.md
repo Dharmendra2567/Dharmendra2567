@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendra2567&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendra2567" /> </p>
 
-- 🌱 Know More About Me: **https://my-portfolio-xlbb.onrender.com/**
+- 🌱 Know More About Me: **https://dharmendrasah.netlify.app/**
 
 - 📫 How to reach me **dharmendrasahteli23@gmail.com**
 
