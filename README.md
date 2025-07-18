@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="center">Intern at Celebal Technologies</p>
-<table width="100%">
+<table width="100% style="border:none">
   <tr>
     <td valign="top" width="60%">
       <p align="left">
@@ -115,18 +115,18 @@
 </div>
     </td>
     <td align="center" valign="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="500" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="500" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
 
 <p>
-  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendra2567&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendra2567&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=dharmendra2567&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" widthh="350"  src="https://github-readme-stats.vercel.app/api?username=dharmendra2567&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 
