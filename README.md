@@ -115,14 +115,14 @@
 </div>
     </td>
     <td align="center" valign="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="500" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="500" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
 
 <p>
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendra2567&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendra2567&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
